@@ -1,0 +1,84 @@
+G:\FutureScan\FutureScan\bin\Debug\FutureScan.exe.config
+G:\FutureScan\FutureScan\bin\Debug\FutureScan.exe
+G:\FutureScan\FutureScan\bin\Debug\FutureScan.pdb
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.Properties.Resources.resources
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.csproj.GenerateResource.Cache
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.exe
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.pdb
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.login.resources
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.Admin.resources
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.csprojResolveAssemblyReference.cache
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.choice.resources
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.Pationt_choice.resources
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.Cash.resources
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.Save.resources
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.Company.resources
+G:\FutureScan\FutureScan\obj\Debug\FutureScan.Edit.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.csproj.AssemblyReference.cache
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Admin.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Cash.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.choice.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Company.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Edit.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.login.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Pationt_choice.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Properties.Resources.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Save.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.csproj.GenerateResource.cache
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.csproj.CoreCompileInputs.cache
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.exe
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.pdb
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\bin\Debug\Database1.mdf
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\bin\Debug\Database1_log.ldf
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\bin\Debug\FutureScan.exe.config
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\bin\Debug\FutureScan.exe
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\bin\Debug\FutureScan.pdb
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.EditEmployee.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.invoice.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Number_Patients.resources
+F:\Project_Nour\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Edit_Patients.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\bin\Debug\FutureScan.exe.config
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.exe
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.pdb
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\bin\Debug\Database1.mdf
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\bin\Debug\Database1_log.ldf
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\bin\Debug\FutureScan.exe
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\bin\Debug\FutureScan.pdb
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.csprojResolveAssemblyReference.cache
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Admin.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Cash.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.choice.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Company.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Edit.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.EditEmployee.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Edit_Patients.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.invoice.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.login.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Number_Patients.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Pationt_choice.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Properties.Resources.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Save.resources
+C:\Users\Wafaa Nasser\Downloads\Telegram Desktop\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.csproj.GenerateResource.Cache
+F:\FutureScan\FutureScan\FutureScan\bin\Debug\Database1.mdf
+F:\FutureScan\FutureScan\FutureScan\bin\Debug\Database1_log.ldf
+F:\FutureScan\FutureScan\FutureScan\bin\Debug\FutureScan.exe.config
+F:\FutureScan\FutureScan\FutureScan\bin\Debug\FutureScan.exe
+F:\FutureScan\FutureScan\FutureScan\bin\Debug\FutureScan.pdb
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.csproj.AssemblyReference.cache
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Admin.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Cash.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.choice.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Company.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Edit.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.EditEmployee.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Edit_Patients.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.invoice.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.login.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Number_Patients.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Pationt_choice.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Properties.Resources.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.Save.resources
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.csproj.GenerateResource.cache
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.csproj.CoreCompileInputs.cache
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.exe
+F:\FutureScan\FutureScan\FutureScan\obj\Debug\FutureScan.pdb
